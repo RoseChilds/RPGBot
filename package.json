@@ -1,0 +1,23 @@
+{
+  "name": "rpgbot",
+  "version": "1.0.0",
+  "description": "A work in progress RPG Discord bot. Currently just a skeleton.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RoseChilds/RPGBot.git"
+  },
+  "author": "Solithcy",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/RoseChilds/RPGBot/issues"
+  },
+  "homepage": "https://github.com/RoseChilds/RPGBot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "node-fetch": "^2.6.1"
+  }
+}
